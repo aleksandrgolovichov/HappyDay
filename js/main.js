@@ -6,7 +6,7 @@ let sec = document.getElementById("sec");
 console.log(day,hours,min,sec);
 let curentDate = new Date().getDate();
 console.log(curentDate)
-let birthday = new Date('26 may 2024 08:00:00')
+let birthday = new Date('26 may 2024 09:00:00')
 console.log(birthday)
 function timer(){
 
